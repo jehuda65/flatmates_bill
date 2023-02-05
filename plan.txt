@@ -14,5 +14,5 @@ objects:
         pays(bill)
     PDF report:
         filename
-        generate(flatmatee1, flatmate2, bill)
+        generate(flatmate1, flatmate2, bill)
 
